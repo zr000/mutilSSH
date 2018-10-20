@@ -1,4 +1,4 @@
 
 *.exe
 *.pdb
-app\Debug\
+app/Debug/
