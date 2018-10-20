@@ -2,3 +2,4 @@
 *.exe
 *.pdb
 app/Debug/
+app/.vs/
