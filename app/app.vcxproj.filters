@@ -48,5 +48,15 @@
     <Image Include="app.ico">
       <Filter>资源文件</Filter>
     </Image>
+    <Image Include="icon1.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\go.png">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\default.htm" />
+    <None Include="res\test.json" />
   </ItemGroup>
 </Project>
